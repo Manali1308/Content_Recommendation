@@ -1,0 +1,75 @@
+[W 11:40:20.883 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 11:40:20.887 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 11:40:20.887 NotebookApp] 0 active kernels 
+[I 11:40:20.887 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 11:40:20.887 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:40:34.826 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 11:40:34.827 NotebookApp] The port 8888 is already in use, trying another random port.
+[I 11:40:34.831 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 11:40:34.831 NotebookApp] 0 active kernels 
+[I 11:40:34.831 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8889/
+[I 11:40:34.831 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:13:25.986 NotebookApp] received signal 15, stopping
+[I 12:13:25.986 NotebookApp] Shutting down kernels
+[C 12:13:26.004 NotebookApp] received signal 15, stopping
+[I 12:13:26.005 NotebookApp] Shutting down kernels
+[W 12:14:15.403 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:14:15.407 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:14:15.407 NotebookApp] 0 active kernels 
+[I 12:14:15.407 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 12:14:15.407 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:14:24.555 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:14:24.555 NotebookApp] The port 8888 is already in use, trying another random port.
+[I 12:14:24.559 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:14:24.559 NotebookApp] 0 active kernels 
+[I 12:14:24.559 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8889/
+[I 12:14:24.559 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:17:24.277 NotebookApp] received signal 15, stopping
+[I 12:17:24.278 NotebookApp] Shutting down kernels
+[C 12:17:24.295 NotebookApp] received signal 15, stopping
+[I 12:17:24.296 NotebookApp] Shutting down kernels
+[W 12:18:02.337 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:18:02.341 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:18:02.341 NotebookApp] 0 active kernels 
+[I 12:18:02.341 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 12:18:02.341 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:18:08.915 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:18:08.915 NotebookApp] The port 8888 is already in use, trying another random port.
+[I 12:18:08.919 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:18:08.919 NotebookApp] 0 active kernels 
+[I 12:18:08.919 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8889/
+[I 12:18:08.919 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:22:55.168 NotebookApp] received signal 15, stopping
+[I 12:22:55.169 NotebookApp] Shutting down kernels
+[C 12:22:55.187 NotebookApp] received signal 15, stopping
+[I 12:22:55.187 NotebookApp] Shutting down kernels
+[W 12:23:14.814 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:23:14.818 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:23:14.818 NotebookApp] 0 active kernels 
+[I 12:23:14.818 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 12:23:14.819 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:23:17.894 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:23:17.895 NotebookApp] The port 8888 is already in use, trying another random port.
+[I 12:23:17.899 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:23:17.899 NotebookApp] 0 active kernels 
+[I 12:23:17.899 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8889/
+[I 12:23:17.899 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:24:01.819 NotebookApp] received signal 15, stopping
+[I 12:24:01.820 NotebookApp] Shutting down kernels
+[C 12:24:01.839 NotebookApp] received signal 15, stopping
+[I 12:24:01.840 NotebookApp] Shutting down kernels
+[W 12:28:00.927 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:28:00.931 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:28:00.931 NotebookApp] 0 active kernels 
+[I 12:28:00.931 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 12:28:00.931 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 12:28:02.091 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 12:28:02.091 NotebookApp] The port 8888 is already in use, trying another random port.
+[I 12:28:02.095 NotebookApp] Serving notebooks from local directory: /mnt01/pragalbh/graph_recos/codes_graph/reco_model_cattopic_id_score_headline_sentiment_1
+[I 12:28:02.095 NotebookApp] 0 active kernels 
+[I 12:28:02.095 NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8889/
+[I 12:28:02.096 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:29:11.597 NotebookApp] received signal 15, stopping
+[I 12:29:11.598 NotebookApp] Shutting down kernels
+[C 12:29:11.614 NotebookApp] received signal 15, stopping
+[I 12:29:11.615 NotebookApp] Shutting down kernels
